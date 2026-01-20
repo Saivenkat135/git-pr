@@ -5,3 +5,6 @@ print(c)
 d=30
 e=c*d
 print(e)
+f=40
+div=e/f
+print(div)
